@@ -1,0 +1,35 @@
+*{
+margin: 0;
+padding: 0;
+font-family: serif;
+
+}
+
+.blog-details{
+
+display: flex;
+background-color: gray;
+
+
+}
+.blog-details h1{
+
+font-size: 2rem;
+color: red;
+
+}
+.blog-details p{
+
+font-size: 1.2rem;
+color: rgba(0, 0, 0, 0.853);
+
+}
+
+
+
+
+
+
+
+
+
